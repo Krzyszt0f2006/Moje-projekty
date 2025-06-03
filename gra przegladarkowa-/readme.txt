@@ -1,0 +1,1 @@
+Do rozpoczęcia gry otwórz plik 'glowny.html'
