@@ -1,0 +1,27 @@
+Zadanie projektowe - Przybornik
+
+Opis zadania
+
+Wasz klient jest osob¹, która lubi mieæ wszystko pouk³adane w jednym miejscu i dostêpne pod rêk¹ dlatego potrzebuje aplikacji, która bêdzie stanowi³a formê przybornika, który zawiera najczêœciej u¿ywane przez niego aplikacje.
+
+Pierwsz¹ aplikacj¹ jest manager hase³ - Wasz klient lubi mieæ zabezpieczone dostêpy do aplikacji oraz kont silnymi has³ami, jednak nie bardzo lubi je zapamiêtywaæ.
+
+Drug¹ aplikacj¹ jest kalkulator finansowy - niestety Waszemu klientowi niedawno wygas³a licencja na Excela, z którego g³ównie korzysta³ do zarz¹dzania swoimi finansami. Z racji, ¿e przybornik ma byæ aplikacj¹ wykorzystywan¹ przez niego na co dzieñ, chcia³by aby taka ma³a forma kalkulatora finansowego znalaz³a siê równie¿ w przyborniku.
+
+Trzeci¹ aplikacj¹ jest manager schowka - poniewa¿ Wasz klient jest dziennikarzem i czêsto przegl¹da internet w poszukiwaniu informacji, które bêdzie wykorzystywa³ do pisania artyku³ów, kopiuje bardzo du¿o rzeczy do schowka na komputerze, aby póŸniej wykorzystaæ je przy pisaniu artyku³ów. Do tej pory wszystko co kopiowa³ zapisywa³ do tymczasowego pliku notatnika, jednak bardzo utrudnia to pracê, poniewa¿ ciê¿ko jest mu przypomnieæ sobie jakiego tematu dany fragment informacji dotyczy³.
+
+Wymagania
+
+Stwórzcie aplikacjê konsolow¹, która bêdzie swego rodzaju przybornikiem zawieraj¹cym wszystkie powy¿sze aplikacje. Dane, z których korzystaæ bêdzie wasza aplikacja mo¿ecie zapisywaæ zwyczajnie w plikach .txt lub .json. 
+
+Manager hase³ powinien mieæ mo¿liwoœæ dodania nazwy konta / aplikacji, której to has³o dotyczy, a nastêpnie mo¿liwoœæ przypisania do tego konta has³a. Przybornik pownien tak¿e mieæ opcjê wyœwietlenia danego has³a.
+Uwaga: raczej nie chcemy aby niezaszyfrowane has³a by³y zapisywane do pliku!
+
+Kalkulator finansowy powinien mieæ mo¿liwoœæ dodania wp³ywów lub wydatków oraz generowania raportów i statystyk finansowych takich jak saldo oraz iloœæ pieniêdzy wydanych i zarobionych w ci¹gu ostatniego miesi¹ca.
+
+Manager schowka powinien mieæ mo¿liwoœæ utworzenia pliku schowka oraz dodania do pliku skopiowanego elementu.
+
+Aplikacja nie musi byæ aplikacj¹ z desktopow¹, wystarczy, ¿e bêdzie ona dzia³aæ w okienku konsoli, jednak wa¿ne aby by³a ona czytelna i nastawiona na u¿ytecznoœæ i ³atwoœæ z korzystania.
+
+
+

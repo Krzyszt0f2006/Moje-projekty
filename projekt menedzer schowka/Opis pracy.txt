@@ -1,0 +1,3 @@
+Pełna treść zadania znajduje sie w pliku "opis zadania.txt"
+Zadanie było realizowane razem z dwoma przyjaciółmi z którymi następnie połączyliśmy nasze indywidualne projekty w jedną aplikacje.
+Moją częścią projektu było zaprogramowanie menedżera plików
