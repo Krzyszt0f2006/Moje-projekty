@@ -1,0 +1,16 @@
+1.
+wynik :  114
+czas :  271.2809031009674
+2.
+181
+3.
+Dla mocy 1 ilosc wystapien wynosi 382.
+Dla mocy 2 ilosc wystapien wynosi 344.
+Dla mocy 3 ilosc wystapien wynosi 173.
+Dla mocy 4 ilosc wystapien wynosi 76.
+Dla mocy 5 ilosc wystapien wynosi 23.
+Dla mocy 6 ilosc wystapien wynosi 4.
+Dla mocy 7 ilosc wystapien wynosi 0.
+Dla mocy 8 ilosc wystapien wynosi 2.
+Maksymalna liczba o mocy 1 :  999342708
+Minimalna liczba o mocy 1 :  11
