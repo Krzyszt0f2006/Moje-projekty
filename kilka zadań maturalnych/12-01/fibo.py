@@ -4,7 +4,7 @@ def fibonacci_sumy(n):
 
     a, b = 0, 1
     suma = 0
-    for _ in range(n):
+    for i in range(n):
         suma += b
         a, b = b, a + b
     return suma
